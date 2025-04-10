@@ -33,7 +33,7 @@ App Interface: Blynk Mobile App
 
 📲 Blynk Interface Preview
 
-
+![image alt](https://github.com/coolsam56/2021-25-MAP2-G28-Smart-Irrigation-System/blob/1d30a34cc02e86b36f4dc562b948b13a82bc408a/Project%20pic.png)
 
 📁 Folder Structure
 css
